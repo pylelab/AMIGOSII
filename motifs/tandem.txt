@@ -1,0 +1,6 @@
+# tandem purine-purine like base pair strand
+Tandem purine-purine
+165.0 25.0 230.0 25.0
+165.0 25.0 170.0 25.0
+197.0 20.0 165.0 25.0
+165.0 30.0 220.0 30.0

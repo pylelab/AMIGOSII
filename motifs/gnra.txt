@@ -1,0 +1,5 @@
+# GNRA-like tetraloops and T-loop like motifs
+GNRA
+166.0 26.0 241.0 35.0
+26.0 31.0 232.5 22.5
+169.5 20.5 224.0 25.0

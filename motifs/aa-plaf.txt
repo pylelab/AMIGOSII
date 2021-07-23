@@ -1,0 +1,6 @@
+# adenosine-adenosine platform like motif
+AA-platform
+170.0 20.0 215.0 30.0 
+200.0 60.0 132.0 40.0
+120.0 25.0 226.0 50.0
+180.0 30.0 214.0 40.0

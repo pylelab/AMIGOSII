@@ -1,0 +1,5 @@
+# kink-turn, "other" strand
+Kink-turn, other strand
+167.5 22.5 220.0 40.0
+172.0 14.0 175.0 15.0
+167.5 22.5 220.0 40.0
